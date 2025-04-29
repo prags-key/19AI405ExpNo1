@@ -1,3 +1,4 @@
+```html
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: PRAGATHI KUMAR</h3>
 <h3>Register Number: 212224230200</h3>
@@ -199,4 +200,4 @@ if __name__ == "__main__":
 ![alt text](<WhatsApp Image 2025-04-28 at 18.59.41_754523cd.jpg>)
 <H3>RESULT<H3>
 <P>An AI Agent with PEAS Description is developed.<P>
-
+```
