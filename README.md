@@ -197,7 +197,8 @@ if __name__ == "__main__":
 </p>
 
 <H3>OUTPUT<H3>
-![alt text](<WhatsApp Image 2025-04-28 at 18.59.41_754523cd.jpg>)
+![aiex1](https://github.com/user-attachments/assets/f25e8a97-26d5-4619-9c45-6fd1db5cd027)
+
 <H3>RESULT<H3>
 <P>An AI Agent with PEAS Description is developed.<P>
 ```
