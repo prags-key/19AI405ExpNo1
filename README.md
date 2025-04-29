@@ -42,7 +42,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 <H3>Program<H3>
 <p>
-def show_state(self):
+def show_state(self):<br>
     """Display the agent's internal state. Subclasses should override."""
     print("I don't know how to show_state.")
 
@@ -192,7 +192,8 @@ if __name__ == "__main__":
     environment.run(steps=10)
     print("Final Status:", environment.status)
     print("Agent Performance:", agent.performance)
-<p>
+  
+</p>
 
 <H3>OUTPUT<H3>
 ![alt text](<WhatsApp Image 2025-04-28 at 18.59.41_754523cd.jpg>)
