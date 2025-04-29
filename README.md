@@ -197,7 +197,7 @@ if __name__ == "__main__":
 </p>
 
 <H3>OUTPUT<H3>
-<img src="images/WhatsApp Image 2025-04-28 at 18.59.41_754523cd.jpg" alt="Banner" width="600">
+<img src="images/aiex1.jpg" alt="Banner" width="600">
 
 
 <H3>RESULT<H3>
