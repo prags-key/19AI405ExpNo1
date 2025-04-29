@@ -197,7 +197,7 @@ if __name__ == "__main__":
 </p>
 
 <H3>OUTPUT<H3>
-<img src="aiex1.jpg" alt="Screenshot" width="500">
+WhatsApp Image 2025-04-28 at 18.59.41_754523cd.jpg
 
 <H3>RESULT<H3>
 <P>An AI Agent with PEAS Description is developed.<P>
